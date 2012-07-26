@@ -1,0 +1,2002 @@
+Traceback (most recent call last):
+  File "find_eulerian_tour.py", line 123, in <module>
+    print find_eulerian_tour(graph)
+  File "find_eulerian_tour.py", line 31, in find_eulerian_tour
+    return connect_tour(begin, end, graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 78, in connect_tour
+    return connect_tour(begin+[new_begin_end], [new_end_begin]+end, new_graph)
+  File "find_eulerian_tour.py", line 64, in connect_tour
+    if begin_end in edge and end_begin in edge:
+RuntimeError: maximum recursion depth exceeded in cmp
